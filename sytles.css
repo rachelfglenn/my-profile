@@ -92,11 +92,6 @@ body {
   transform: translateY(0);
 }
 
-div {
-  resize: both;
-  overflow: auto;
-}
-
 @media (max-width:  720px){
   .container{
     width: 500px;
