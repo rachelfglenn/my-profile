@@ -6,7 +6,6 @@ body {
 }
 
 }
-}
 
 #block1
 {
@@ -113,4 +112,22 @@ div {
   .container{
     width: 300;
   }
+}
+
+@media(max-width: 720px)
+
+img{
+  width: 100px;
+  border-radius:80px: ; 
+  }
+
+ul {
+  display: inline-flex
+  }
+a{
+  text-decoration: none ;
+  color: blue;
+}
+a:hover{
+  color: hotpink;
 }
